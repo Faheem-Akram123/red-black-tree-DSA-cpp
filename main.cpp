@@ -8,7 +8,7 @@ void showMenu()
     cout << "4. Inorder Traversal" << endl;
     cout << "5. Preorder Traversal" << endl;
     cout << "6. Postorder Traversal" << endl;
-    cout << "8. Exit" << endl;
+    cout << "7. Exit" << endl;
 }
 
 int main()
